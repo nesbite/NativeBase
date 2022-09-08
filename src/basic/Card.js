@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { FlatList, View, ViewPropTypes } from 'react-native';
+import { FlatList, View } from 'react-native';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import { connectStyle } from 'native-base-shoutem-theme';
 
 import mapPropsToStyleNames from '../utils/mapPropsToStyleNames';
