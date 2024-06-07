@@ -24,7 +24,7 @@ it("renders single FAB inactive", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="bottomRight"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -32,7 +32,7 @@ it("renders single FAB inactive", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
       </View>
@@ -51,7 +51,7 @@ it("renders single FAB active", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="bottomRight"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -59,7 +59,7 @@ it("renders single FAB active", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
       </View>
@@ -79,7 +79,7 @@ it("renders multiple FAB inactive", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="bottomRight"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -87,7 +87,7 @@ it("renders multiple FAB inactive", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
         <Fab
@@ -97,7 +97,7 @@ it("renders multiple FAB inactive", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="topRight"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -105,7 +105,7 @@ it("renders multiple FAB inactive", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
         <Fab
@@ -115,7 +115,7 @@ it("renders multiple FAB inactive", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="topLeft"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -123,7 +123,7 @@ it("renders multiple FAB inactive", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
         <Fab
@@ -133,7 +133,7 @@ it("renders multiple FAB inactive", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="bottomLeft"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -141,7 +141,7 @@ it("renders multiple FAB inactive", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
       </View>
@@ -161,7 +161,7 @@ it("renders multiple FAB active", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="bottomRight"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -169,7 +169,7 @@ it("renders multiple FAB active", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
         <Fab
@@ -179,7 +179,7 @@ it("renders multiple FAB active", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="topRight"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -187,7 +187,7 @@ it("renders multiple FAB active", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
         <Fab
@@ -197,7 +197,7 @@ it("renders multiple FAB active", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="topLeft"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -205,7 +205,7 @@ it("renders multiple FAB active", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
         <Fab
@@ -215,7 +215,7 @@ it("renders multiple FAB active", () => {
           style={{ backgroundColor: "#5067FF" }}
           position="bottomLeft"
         >
-          <IconNB name="md-share" />
+          <IconNB name="share" />
           <Button style={{ backgroundColor: "#34A34F" }}>
             <IconNB name="logo-whatsapp" />
           </Button>
@@ -223,7 +223,7 @@ it("renders multiple FAB active", () => {
             <IconNB name="logo-facebook" />
           </Button>
           <Button disabled style={{ backgroundColor: "#DD5144" }}>
-            <IconNB name="ios-mail" />
+            <IconNB name="mail" />
           </Button>
         </Fab>
       </View>

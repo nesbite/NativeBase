@@ -167,7 +167,7 @@ it("renders Success Input", () => {
       <Form>
         <Item success>
           <Input placeholder="Textbox with Success Input" />
-          <Icon name="ios-checkmark-circle" />
+          <Icon name="checkmark-circle" />
         </Item>
       </Form>
     )
@@ -181,7 +181,7 @@ it("renders Error Input", () => {
       <Form>
         <Item error>
           <Input placeholder="Textbox with Error Input" />
-          <Icon name="ios-close-circle" />
+          <Icon name="close-circle" />
         </Item>
       </Form>
     )
@@ -195,7 +195,7 @@ it("renders Disabled Input", () => {
       <Form>
         <Item disabled>
           <Input disabled placeholder="Disabled Textbox" />
-          <Icon name="ios-information-circle" />
+          <Icon name="information-circle" />
         </Item>
       </Form>
     )

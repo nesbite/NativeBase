@@ -29,7 +29,7 @@ it("renders anatomy", () => {
         <Header>
           <Left>
             <Button transparent>
-              <Icon name="ios-menu" />
+              <Icon name="menu" />
             </Button>
           </Left>
           <Body>

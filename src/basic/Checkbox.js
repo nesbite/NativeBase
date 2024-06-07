@@ -71,8 +71,8 @@ class CheckBox extends Component {
           }}
           name={
             platform === PLATFORM.IOS && platformStyle !== PLATFORM.MATERIAL
-              ? 'ios-checkmark'
-              : 'md-checkmark'
+              ? 'checkmark'
+              : 'checkmark'
           }
         />
       </TouchableOpacity>
